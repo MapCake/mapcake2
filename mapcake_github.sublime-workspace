@@ -1,0 +1,1031 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"layer__",
+				"layer__title"
+			],
+			[
+				"layer",
+				"layer__title"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"profil",
+				"profileSuccessFn"
+			],
+			[
+				"pro",
+				"profileErrorFn"
+			],
+			[
+				"profi",
+				"profileSuccessFn"
+			],
+			[
+				"Post",
+				"Post"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ap",
+				"approximateShortestColumn"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"co",
+				"columns"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"directiv",
+				"directive"
+			],
+			[
+				"Accoun",
+				"AccountPostsViewSet"
+			],
+			[
+				"ser",
+				"serializer_class"
+			],
+			[
+				"Pos",
+				"Post"
+			],
+			[
+				"crea",
+				"created_at"
+			],
+			[
+				"unau",
+				"Unauthenticate"
+			],
+			[
+				"Au",
+				"Authentication"
+			],
+			[
+				"Http",
+				"HTTP_201_CREATED"
+			],
+			[
+				"is",
+				"isAuthenticated"
+			],
+			[
+				"authen",
+				"authenticatedAccount"
+			],
+			[
+				"Auth",
+				"AuthenticatedAccount"
+			],
+			[
+				"auth",
+				"AuthenticatedAccount"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"Respo",
+				"Response"
+			],
+			[
+				"seri",
+				"serialized"
+			],
+			[
+				"authenti",
+				"authenticate"
+			],
+			[
+				"route",
+				"routeProvider"
+			],
+			[
+				"rout",
+				"routeProvider"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"se",
+				"serilizer"
+			],
+			[
+				"con",
+				"confirm_passwrod"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"create",
+				"create_response"
+			],
+			[
+				"la",
+				"layer_object"
+			],
+			[
+				"JSON",
+				"JSONserializer"
+			],
+			[
+				"serili",
+				"serializers"
+			],
+			[
+				"geo",
+				"geoJson"
+			],
+			[
+				"data",
+				"dataurl"
+			],
+			[
+				"respo",
+				"response_kwargs"
+			],
+			[
+				"Layer",
+				"LayerDetailView"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"template",
+				"template_name"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"File",
+				"FileLayerView"
+			],
+			[
+				"get",
+				"get_context_data"
+			],
+			[
+				"for",
+				"form_class"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"res",
+				"response_data"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"fiel",
+				"file_layer"
+			],
+			[
+				"fil",
+				"file_layer"
+			],
+			[
+				"FIle",
+				"FileUploadForm"
+			],
+			[
+				"layers",
+				"layers"
+			],
+			[
+				"file",
+				"file_upload"
+			],
+			[
+				"templ",
+				"template_name"
+			],
+			[
+				"url",
+				"urls"
+			],
+			[
+				"asser",
+				"assertEqual"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"asse",
+				"assertIn"
+			],
+			[
+				"ME",
+				"MEDIA_URL"
+			],
+			[
+				"form",
+				"form"
+			],
+			[
+				"medi",
+				"media_uploaded_file"
+			],
+			[
+				"fi",
+				"file_to_upload"
+			],
+			[
+				"ass",
+				"assertTrue"
+			],
+			[
+				"MEDIA",
+				"MEDIA_ROOT"
+			],
+			[
+				"MED",
+				"MEDIA_ROOT"
+			],
+			[
+				"test",
+				"test_file"
+			],
+			[
+				"de",
+				"default_storage"
+			],
+			[
+				"ne",
+				"newlayer_button"
+			],
+			[
+				"new",
+				"new_layer_button"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"laye",
+				"layer_date"
+			],
+			[
+				"fin",
+				"find_element_by_class_name"
+			],
+			[
+				"ase",
+				"assertIn"
+			],
+			[
+				"b",
+				"button	Tag"
+			],
+			[
+				"TEMPLATE",
+				"TEMPLATE_PATH"
+			],
+			[
+				"TEMPLA",
+				"TEMPLATE_DIRS"
+			],
+			[
+				"assert",
+				"assertEqual"
+			],
+			[
+				"tes",
+				"test_can_start_a_map_and_retrive_it_later"
+			],
+			[
+				"def",
+				"def	Function"
+			],
+			[
+				"SERVER_",
+				"server_url"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"inpu",
+				"inputbox"
+			],
+			[
+				"lis",
+				"list_"
+			],
+			[
+				"list",
+				"list_id"
+			],
+			[
+				"first",
+				"first"
+			],
+			[
+				"ite",
+				"item_text"
+			],
+			[
+				"other",
+				"other_list"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"firs",
+				"first"
+			],
+			[
+				"the",
+				"the-only-list-in-the-world"
+			],
+			[
+				"view",
+				"view_list"
+			],
+			[
+				"ed",
+				"edith_list_url"
+			],
+			[
+				"find",
+				"find_element_by_id"
+			],
+			[
+				"item",
+				"item_text"
+			],
+			[
+				"seco",
+				"second_saved_item"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"fir",
+				"first_item"
+			],
+			[
+				"chec",
+				"check_for_row_in_list_table"
+			],
+			[
+				"che",
+				"check_for_row_in_list_table"
+			],
+			[
+				"row",
+				"row_text"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"home",
+				"home_page"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"Test",
+				"TestCase"
+			],
+			[
+				"yO",
+				"yOffset"
+			],
+			[
+				"pixel",
+				"pixelHeight"
+			],
+			[
+				"xO",
+				"xOrigin"
+			],
+			[
+				"y",
+				"yValues"
+			],
+			[
+				"pi",
+				"pixelHeight"
+			],
+			[
+				"out",
+				"outSpatialRef"
+			],
+			[
+				"cop",
+				"copyFields"
+			],
+			[
+				"tar",
+				"targetDS"
+			],
+			[
+				"sour",
+				"sourceDS"
+			],
+			[
+				"site",
+				"sitesLayer"
+			],
+			[
+				"sit",
+				"sitesLayer"
+			],
+			[
+				"sites",
+				"sitesLayer"
+			],
+			[
+				"buff",
+				"bufferGeom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: doc",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git: add",
+				"Git: Add..."
+			],
+			[
+				"git:",
+				"Git: Status"
+			],
+			[
+				"sy ht",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"Package Control: G",
+				"Package Control: Discover Packages"
+			],
+			[
+				"set sy",
+				"Set Syntax: JSON"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"Package Control: P",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"PEP",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/David/Documents/Traducciones/Thinkster Django Angular/tutorial-django-angularjs-thinkster-spanish/capitulo02.md",
+		"/Users/David/Documents/Traducciones/Thinkster Django Angular/tutorial-django-angularjs-thinkster-spanish/capitulo03.md",
+		"/Users/David/Documents/Traducciones/Thinkster Django Angular/capitulo02.md",
+		"/Users/David/Documents/Traducciones/Thinkster Django Angular/tutorial-django-angularjs-thinkster-spanish/capitulo01.md",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/templates/javascripts.html",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/static/mapcake/js/layers/directives/layer.directive.js",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/static/mapcake/js/layers/directives/layers.directive.js",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/static/mapcake/js/layers/controllers/layer.controller.js",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/static/mapcake/js/mapcake.js",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/static/mapcake/templates/layers/single_layer.html",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/static/mapcake/js/layers/layers.module.js",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/static/azimuthjs/module.js",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/static/mapcake/js/azimuthjs/module.js",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/static/mapcake/js/layers/services/layer.service.js",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/static/mapcake/js/mapcake.routes.js",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/static/mapcake/js/profiles/controllers/profile.controller.js",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/static/mapcake/templates/layers/layers.html",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/static/mapcake/templates/layers/layer.html",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/mapcake/urls.py",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/layers/views.py",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/static/mapcake/js/layers/services/layers.service.js",
+		"/Users/David/Documents/Dev/mapcake2/mapcake/static/mapcake/js/layout/controllers/layer.controller.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/templates/profiles/settings.html",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/profiles/controllers/profile-settings.controller.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/thinkster.routes.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/profiles/controllers/profile.controller.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/profiles/services/profile.service.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/profiles/profiles.module.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/templates/profiles/profile.html",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/templates/layout/index.html",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/templates/posts/new-post.html",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/posts/controllers/new-post.controller.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/templates/javascripts.html",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/dist/static/javascripts/thinkster.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/thinkster.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/posts/serializers.py",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/posts/services/posts.service.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/authentication/services/authentication.service.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/posts/directives/post.directive.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/posts/directives/posts.directive.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/templates/posts/post.html",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/layout/controllers/index.controller.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/posts/controllers/posts.controller.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/utils/services/snackbar.service.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/posts/posts.module.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/stylesheets/styles.css",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/thinkster_django_angular_boilerplate/urls.py",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/thinkster_django_angular_boilerplate/settings.py",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/posts/permissions.py",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/posts/views.py",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/templates/posts/posts.html",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/utils/snackbar.service.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/utils/utils.module.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/posts/models.py",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/authentication/views.py",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/layout/controllers/navbar.controller.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/templates/navbar.html",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/layout/layout.module.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/templates/authentication/login.html",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/authentication/controllers/login.controller.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/authentication/permissions.py",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/authentication/models.py",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/authentication/controllers/register.controller.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/thinkster.config.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/templates/authentication/register.html",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static/javascripts/authentication/authentication.module.js",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/authentication/serializers.py",
+		"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/scripts/postInstall.sh",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/templates/layers/test.html",
+		"/Users/David/Desktop/Salida guardada del terminal",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/layers/serializers.py",
+		"/Users/David/.virtualenvs/web_mapcake/lib/python3.4/site-packages/djgeojson/views.py",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/layers/http.py",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/layers/jsonresponse.py",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/mapcake/wsgi.py",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/home/admin.py",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/home/models.py",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/home/tests.py",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/home/views.py",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/layers/admin.py",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/layers/tests.py",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/layers/models.py",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/mapcake/settings.py",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/layers/forms.py",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/mapcake/urls.py",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/layers/views.py",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/templates/layers/layer_create_form.html",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/templates/layers/layer_list.html",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/templates/home/index.html",
+		"/Users/David/Documents/Dev/web_mapcake/mapcake/templates/home/about.html",
+		"/Users/David/Documents/Dev/mapcake3/mapcake/templates/layers/upload.html",
+		"/Users/David/Documents/Dev/mapcake3/mapcake/mapcake/settings.py",
+		"/Users/David/Documents/Dev/mapcake3/mapcake/layers/forms.py",
+		"/Users/David/Documents/Dev/mapcake3/mapcake/templates/layers/file_layer_form.html",
+		"/Users/David/Documents/Dev/mapcake3/mapcake/files/test.geojson",
+		"/Users/David/Documents/Dev/mapcake3/mapcake/media/test.geojson",
+		"/Users/David/Documents/Dev/mapcake3/mapcake/layers/static/tests/tests.html",
+		"/Users/David/Documents/Dev/mapcake3/mapcake/templates/base.html",
+		"/Users/David/Documents/Dev/mapcake3/mapcake/layers/urls.py",
+		"/Users/David/Desktop/django.po",
+		"/Users/David/Documents/Dev/mapcake3/mapcake/templates/home/home.html",
+		"/Users/David/Documents/Dev/mapcake3/mapcake/layers/tests.py",
+		"/Users/David/Documents/Dev/mapcake3/mapcake/layers/views.py",
+		"/Users/David/Documents/Dev/mapcake3/mapcake/mapcake/urls.py",
+		"/Users/David/Documents/Dev/mapcake3/mapcake/home/tests.py",
+		"/Users/David/Documents/Dev/mapcake3/mapcake/home/views.py",
+		"/Users/David/Documents/Dev/mapcake3/mapcake/home/templates/home.html",
+		"/Users/David/Documents/Dev/mapcake3/functional_tests.py",
+		"/Users/David/Documents/Dev/mapcake3/mapcake/functional_tests.py",
+		"/Users/David/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/David/Documents/Dev/TestDriven/superlist/superlist/settings.py",
+		"/Users/David/Documents/Dev/TestDriven/superlist/lists/templates/home.html",
+		"/Users/David/Documents/Dev/TestDriven/superlist/functional_tests/tests.py",
+		"/Users/David/Documents/Dev/TestDriven/superlist/lists/templates/list.html",
+		"/Users/David/Documents/Dev/TestDriven/superlist/lists/templates/base.html",
+		"/Users/David/Documents/Dev/TestDriven/superlist/lists/static/base.css",
+		"/Users/David/Documents/Dev/TestDriven/superlist/lists/views.py",
+		"/Users/David/Documents/Dev/TestDriven/superlist/lists/tests.py",
+		"/Users/David/Documents/Dev/TestDriven/superlist/superlist/urls.py",
+		"/Users/David/Documents/Dev/TestDriven/superlist/lists/urls.py",
+		"/Users/David/Documents/Dev/TestDriven/superlist/lists/models.py",
+		"/Users/David/Documents/Dev/TestDriven/superlist/functional_tests/test.py",
+		"/Users/David/Documents/Dev/TestDriven/superlist/functional_test.py",
+		"/Users/David/Documents/Dev/TestDriven/superlist/functional_test",
+		"/Users/David/Documents/Dev/TestDriven/functional_test.py",
+		"/Users/David/Documents/Dev/gdal_tuto/Week4/Respuestas/functional_test.py",
+		"/Users/David/.virtualenvs/gdal_tuto/lib/python3.4/site-packages/osgeo/gdal.py",
+		"/Users/David/.virtualenvs/gdal_tuto/lib/python3.4/site-packages/osgeo/gdal_array.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/David/Documents/Dev/mapcake2/mapcake/",
+			"/Users/David/Documents/Dev/mapcake2/mapcake/static/mapcake/",
+			"/Users/David/Documents/Dev/mapcake2",
+			"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate",
+			"/Users/David/Documents/Dev/thinkster-djangular/thinkster-django-angular-boilerplate/static",
+			"/Users/David/Documents/Dev/mapcake_project/mapcake/accounts/templates",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"<",
+			"<div",
+			" *",
+			"mapcake",
+			"thinkster.",
+			"Nota",
+			"info",
+			"’",
+			"‘",
+			"Account",
+			"User",
+			".when('/layers', {\n            controller: 'IndexController',\n            controllerAs: 'vm',\n            templateUrl: '/static/mapcake/templates/layers/layers_index.html'\n        })",
+			"layers_index.html",
+			"<layers class=\"ng-scope\" layers=\"vm.layers\" ng-show=\"vm.layers && vm.layers.length\">",
+			"ngDialog",
+			"            ",
+			"           ",
+			"          ",
+			"mapcake/js/",
+			"azimuthjs/module.js' %}\"></script>\n<script type=\"text/javascript\" src=\"{% static '",
+			"azimuthjs",
+			"ngDialog",
+			"{{ layer.",
+			"Layers",
+			"accounts",
+			"Profile",
+			"profile",
+			"thinkster",
+			"post",
+			"thinkster",
+			"'",
+			"Layers",
+			"all",
+			"/api/v1/accounts/ogin/",
+			"/api/v1/accounts/",
+			"label",
+			"password",
+			"__password",
+			"settings__email",
+			"Success",
+			"tehn",
+			"api/v1/accounts/ogin",
+			"service",
+			"profile",
+			"Success",
+			"/api/1/posts/",
+			"createPostSuccessFn",
+			"'",
+			"approximateShortestColumn",
+			"calculateNumberOfColumns",
+			"approximateShortestColumn",
+			"Posts",
+			"posts",
+			"directive",
+			"directives",
+			"layout",
+			"posts",
+			"',\n",
+			"NavbarController",
+			"unauthenticate",
+			"unauthenticated",
+			"unauthenticate",
+			"login",
+			"Success",
+			"xsrfHeaderName",
+			"ogin__email",
+			"string",
+			"Respon",
+			"Respos",
+			"thinkster.uthentication",
+			".js.js",
+			"password",
+			"serializers_class",
+			"reverse",
+			"reverse_lazy",
+			"header",
+			"Más",
+			"models",
+			"GeoJSONLayerView",
+			"JSONserializer",
+			"//",
+			"Layers",
+			"reverse_lazy",
+			"Base",
+			"HomePageView",
+			"crs",
+			"&#39;",
+			"article",
+			"homeviews.",
+			"home.",
+			"home",
+			"layer_file",
+			"LayerList",
+			"'",
+			"shp",
+			"new_layer_button",
+			"newlayer_button",
+			"JSONLayer",
+			"layers_list",
+			"'",
+			"newlayer_button",
+			"SmokeTest",
+			"lists/",
+			"print",
+			"ListView",
+			"correct_list",
+			"ListViewTest",
+			"NewItem",
+			"itemey",
+			"Contains",
+			"itemey",
+			"list_",
+			"view_list",
+			"Equals",
+			"assertIn",
+			"url(r'^$', 'superlist.views.home', name='home'),",
+			"#",
+			"_gdal_array",
+			"print( ",
+			"pxGA_ReadOnly",
+			"print",
+			"outSpatialRef",
+			"shape",
+			"targetDS",
+			"sourceDS",
+			"targetEPSGSRS",
+			"sourceEPSGSRS",
+			"sitesFilter"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"{info}",
+			"`Account`",
+			"`User`",
+			"  ",
+			"accounts/base_accounts",
+			"mc-",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"project": "mapcake_github.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"models",
+				"tenedor/lieudit/models.py"
+			],
+			[
+				"rest",
+				"tenedor/lieudit/templates/lieudit/restos.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
