@@ -55,3 +55,6 @@ target/
 
 # Sublime Projects
 *.sublime-*
+
+# Mac OS
+.DS_Store
