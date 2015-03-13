@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 from django.test import TestCase
+from django.http import HttpRequest
 from django.core.urlresolvers import resolve
 from django.core.urlresolvers import reverse
 from home.views import home
@@ -22,3 +23,4 @@ class HomePageTest(TestCase):
     def test_uses_base_template(self):
         response = self.client.get(reverse("home"))
         self.assertTemplateUsed(response, "base.html")
+        
