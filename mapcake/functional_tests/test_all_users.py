@@ -29,17 +29,19 @@ class HomeNewVisitorTest(LiveServerTestCase):
         self.assertIn('MapCake', self.browser.title)
         header_text = self.browser.find_element_by_tag_name('h1').text
         self.assertIn('MapCake', header_text)
-
         # He founds a navigation bar
         nav_bar = self.browser.find_element_by_tag_name('nav').text
         self.assertTrue(nav_bar)
+
+    def test_layers_link(self):
+        self.browser.get(self.get_full_url("home"))
         # At the nav bar he found a layers link and 2 buttons
         # one to sing up and other to log in
         layers_link = self.browser.find_element_by_link_text('Layers')
-        # layers_link = self.browser.find_element_by_link_text('Login')
+        layers_link = self.browser.find_element_by_link_text('Login')
         # layers_link = self.browser.find_element_by_link_text('Register')
         # He selects the Layers Link and goes to public layers index.
-        
+
         # He shows a very prety layer with dots and clicks in the title.
 
         # The single layer view opens.
